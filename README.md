@@ -15,5 +15,5 @@
 - [IEEE: Simulation of Network Congestion Control Based on RED Technology](https://ieeexplore.ieee.org/document/6643312)
 - [Geeks for Geeks: OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
 - [Transport layer: congestion control and leaky bucket algorithm](http://www.cs.toronto.edu/~marbach/COURSES/CSC358_F19/congestion.pdf)
-- [RFC 7540: HTTP/2](https://datatracker.ietf.org/doc/draft-ietf-quic-http/)
+- [RFC 7540: Hypertext Transfer Protocol Version 2](https://datatracker.ietf.org/doc/draft-ietf-quic-http/)
 - [IETF drafts: Hypertext Transfer Protocol Version 3](https://datatracker.ietf.org/doc/draft-ietf-quic-http/)
