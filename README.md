@@ -19,3 +19,4 @@
 - [RFC 7540: Hypertext Transfer Protocol Version 2](https://datatracker.ietf.org/doc/draft-ietf-quic-http/)
 - [IETF drafts: Hypertext Transfer Protocol Version 3](https://datatracker.ietf.org/doc/draft-ietf-quic-http/)
 - [Github: Pantheon](https://github.com/StanfordSNR/pantheon)
+- [_**IMPORTANT: Simulating low bandwidth**_](https://www.hanselman.com/blog/HowToSimulateALowBandwidthConnectionForTestingWebSitesAndApplications.aspx)
